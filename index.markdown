@@ -2,17 +2,23 @@
 layout: home
 ---
 
-# Description
+# *Description*
+
+* * *
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-## Reports
+## *Reports*
+
+* * *
 
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-## Backlogs
+## *Backlogs*
+
+* * *
 
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
@@ -21,25 +27,35 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
 
-## Demo
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-### Team Members
- - Kayra POLAT 
-    <a href = "https://www.linkedin.com/in/kayrapolat/"><img src="https://user-images.githubusercontent.com/75734949/161145027-58268e73-0a09-4d47-b265-2dce528a63b1.png"      align="center" width = "25" height ="25"></a><br/> 
- - Baturalp KIZILTAN <a href = "https://www.linkedin.com/in/baturalpk/"><img src="https://user-images.githubusercontent.com/75734949/161145027-58268e73-0a09-4d47-b265-2dce528a63b1.png"      align="center" width = "25" height ="25"></a><br/>
- - Emrecan ERBAY <a href = "https://www.linkedin.com/in/emrecan-erbay-61336111a/"><img src="https://user-images.githubusercontent.com/75734949/161145027-58268e73-0a09-4d47-b265-2dce528a63b1.png"      align="center" width = "25" height ="25"></a><br/>
- - Can Şengün
-
-### Supervisor
+## *Demo*
 
 * * *
 
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
 
-### Jury Members
+### *Team Members*
+
+* * *
+
+ - Kayra POLAT 
+    <a href = "https://www.linkedin.com/in/kayrapolat/"><img src="https://user-images.githubusercontent.com/75734949/161145027-58268e73-0a09-4d47-b265-2dce528a63b1.png"      align="center" width = "25" height ="25"></a>
+    <a href = "https://github.com/kayra-polat"><img src="https://user-images.githubusercontent.com/75734949/194428657-4279331c-5932-410b-aa61-4796d0acc9e6.png"      align="center" width = "15" height ="15"></a>
+ - Baturalp KIZILTAN 
+   <a href = "https://www.linkedin.com/in/baturalpk/"><img src="https://user-images.githubusercontent.com/75734949/161145027-58268e73-0a09-4d47-b265-2dce528a63b1.png"  align="center" width = "25" height ="25"></a>
+   <a href = "https://github.com/baturalpk"><img src="https://user-images.githubusercontent.com/75734949/194429066-a6ba3b4b-e4e2-4b0b-9f03-0796dc79956c.png"      align="center" width = "15" height ="15"></a>
+ - Emrecan ERBAY 
+   <a href = "https://www.linkedin.com/in/emrecan-erbay-61336111a/"><img src="https://user-images.githubusercontent.com/75734949/161145027-58268e73-0a09-4d47-b265-2dce528a63b1.png"      align="center" width = "25" height ="25"></a>
+ - Can Şengün
+
+### *Supervisor*
+
+* * *
+
+### *Jury Members*
+
+* * *
 
 *   Item foo
 *   Item bar
