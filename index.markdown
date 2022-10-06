@@ -2,52 +2,17 @@
 layout: home
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
 # Description
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-## Header 2
+## Reports
 
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
+## Backlogs
 
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
@@ -56,11 +21,25 @@ end
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
 
-### There's a horizontal rule below this.
+## Demo
+
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
+
+### Team Members
+ - Kayra POLAT 
+    <a href = "https://www.linkedin.com/in/kayrapolat/"><img src="https://user-images.githubusercontent.com/75734949/161145027-58268e73-0a09-4d47-b265-2dce528a63b1.png"      align="center" width = "25" height ="25"></a><br/> 
+ - Baturalp KIZILTAN <a href = "https://www.linkedin.com/in/baturalpk/"><img src="https://user-images.githubusercontent.com/75734949/161145027-58268e73-0a09-4d47-b265-2dce528a63b1.png"      align="center" width = "25" height ="25"></a><br/>
+ - Emrecan ERBAY <a href = "https://www.linkedin.com/in/emrecan-erbay-61336111a/"><img src="https://user-images.githubusercontent.com/75734949/161145027-58268e73-0a09-4d47-b265-2dce528a63b1.png"      align="center" width = "25" height ="25"></a><br/>
+ - Can Şengün
+
+### Supervisor
 
 * * *
 
-### Here is an unordered list:
+
+### Jury Members
 
 *   Item foo
 *   Item bar
@@ -89,15 +68,6 @@ end
   - level 2 item
   - level 2 item
 - level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
 
 ### Definition lists can be used with HTML syntax.
 
