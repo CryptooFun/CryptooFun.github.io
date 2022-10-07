@@ -1,8 +1,7 @@
-title: Senior P
-baseurl: "" # the subpath of your site, e.g. /blog
+title: Senior Project
+description: This is a project
 domain: "senior-p.github.io"
 url: "https://senior-p.github.io" 
-description: This is a project
 show_downloads: true
 theme: jekyll-theme-leap-day
 plugins:
