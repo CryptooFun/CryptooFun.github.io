@@ -2,7 +2,9 @@
 baseurl: "" # the subpath of your site, e.g. /blog
 domain: "senior-p.github.io"
 url: "https://senior-p.github.io" 
-
+title: Senior-p
+description: This is a project
+show_downloads: true
 theme: jekyll-theme-leap-day
 plugins:
   - jekyll-feed
