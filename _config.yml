@@ -3,6 +3,6 @@ baseurl: "" # the subpath of your site, e.g. /blog
 domain: "senior-p.github.io"
 url: "https://senior-p.github.io" 
 
-theme: jekyll-remote-theme
+theme: jekyll-theme-leap-day
 plugins:
   - jekyll-feed
