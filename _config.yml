@@ -3,6 +3,6 @@ description: This is a project
 domain: "senior-p.github.io"
 url: "https://senior-p.github.io" 
 show_downloads: true
-theme: jekyll-theme-leap-day
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
