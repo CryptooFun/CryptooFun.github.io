@@ -16,20 +16,6 @@ Our aim in our project, which shows the risks of cryptocurrencies and how to inv
  - [Project Proposal](./reports/Project_Proposal.pdf)
 
 
-## *Backlogs*
-
-* * *
-| **Sprint 1**
-
-| Task Name                     | Category   | Priority | Status       |
-| **Reports**                                                          |    
-|:------------------------------|:-----------|:---------|:-------------|
-| Project Proposal              | Report     | High     | Completed    |
-| Project Specifications Report | Report     | High     | Not Started  |
-| Analysis Report               | Report     | Medium   | Not Started  |
-| High-Level Design Report      | Report     | Low      | Not Started  |
-
-
 ### *Team Members*
 
 * * *
