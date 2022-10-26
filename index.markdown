@@ -29,7 +29,7 @@ Our aim in our project, which shows the risks of cryptocurrencies and how to inv
 | **Reports**                                                          |    
 |:------------------------------|:-----------|:---------|:-------------|
 | Project Proposal              | Report     | High     | Completed    |
-| Project Specifications Report | Report     | High     | Started      |
+| Project Specifications Report | Report     | High     | Completed    |
 | Analysis Report               | Report     | Medium   | Not Started  |
 | High-Level Design Report      | Report     | Low      | Not Started  |
 
@@ -48,6 +48,7 @@ Our aim in our project, which shows the risks of cryptocurrencies and how to inv
    <a href = "https://www.linkedin.com/in/emrecan-erbay-61336111a/"><img src="https://user-images.githubusercontent.com/75734949/161145027-58268e73-0a09-4d47-b265-2dce528a63b1.png"      align="center" width = "25" height ="25"></a>
    <a href = "https://github.com/emrerbay"><img src="https://user-images.githubusercontent.com/75734949/194429066-a6ba3b4b-e4e2-4b0b-9f03-0796dc79956c.png"      align="center" width = "15" height ="15"></a>
  - Can Şengün
+   <a href = "https://www.linkedin.com/in/can-%C5%9Feng%C3%BCn-35787423a/"><img src="https://user-images.githubusercontent.com/75734949/161145027-58268e73-0a09-4d47-b265-2dce528a63b1.png"      align="center" width = "25" height ="25"></a>
 
 
 ### *Supervisor*
