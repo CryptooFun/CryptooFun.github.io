@@ -18,6 +18,7 @@ Our aim in our project, which shows the risks of cryptocurrencies and how to inv
 
 * * *
  - [Project Proposal](./reports/Project-Proposal.pdf)
+ - [Project Specification Report](./reports/Project-Specificaiton-Report.pdf)
 
 
 ## *Backlogs*
