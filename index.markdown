@@ -31,7 +31,7 @@ Our aim in our project, which shows the risks of cryptocurrencies and how to inv
 |:------------------------------|:-----------|:---------|:-------------|
 | Project Proposal              | Report     | High     | Completed    |
 | Project Specifications Report | Report     | High     | Completed    |
-| Analysis Report               | Report     | Medium   | Not Started  |
+| Analysis Report               | Report     | High     | Started      |
 | High-Level Design Report      | Report     | Low      | Not Started  |
 
 
