@@ -35,7 +35,7 @@ The aim of our project is to ensure that people make minimal losses from their f
 | Project Specifications Report | Report     | High     | Completed    |
 | Analysis Report               | Report     | High     | Completed    |
 | High-Level Design Report      | Report     | High     | Completed    |
-| Low-Level Design Report       | Report     | High     | Not Started  |
+| Low-Level Design Report       | Report     | High     | Started      |
 | Test Plan Report              | Report     | Medium   | Not Started  |
 | Final Report                  | Report     | Low      | Not Started  |
 
