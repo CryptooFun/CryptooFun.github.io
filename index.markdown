@@ -21,6 +21,7 @@ The aim of our project is to ensure that people make minimal losses from their f
  - [Project Specification Report](./reports/Project-Specificaiton-Report.pdf)
  - [Analysis Report](./reports/Analysis-Report.pdf)
  - [High Level Design Report](./reports/High-Level-Design-Report.pdf)
+ - [Low Level Design Report](./reports/Low-Level-Design-Report.pdf)
 
 
 ## *Backlogs*
@@ -35,7 +36,7 @@ The aim of our project is to ensure that people make minimal losses from their f
 | Project Specifications Report | Report     | High     | Completed    |
 | Analysis Report               | Report     | High     | Completed    |
 | High-Level Design Report      | Report     | High     | Completed    |
-| Low-Level Design Report       | Report     | High     | Started      |
+| Low-Level Design Report       | Report     | High     | Completed    |
 | Test Plan Report              | Report     | Medium   | Not Started  |
 | Final Report                  | Report     | Low      | Not Started  |
 
