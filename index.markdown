@@ -41,6 +41,25 @@ The aim of our project is to ensure that people make minimal losses from their f
 | Final Report                  | Report     | Low      | Not Started  |
 
 
+* * *
+| **Sprint 2**
+
+| Task Name                      | Category           | Priority | Status               |
+| **Subsytem Implementation**                                                           |    
+|:-------------------------------|:-------------------|:---------|:---------------------|
+| Identity Provider              | Implementation     | Medium   | Not Started          |
+| Server-side Infrastructure     | Implementation     | Medium   | Not Started          |
+| Web Application Server         | Implementation     | Low      | Not Started          |
+| Trade Butler Server            | Implementation     | Low      | Completed            |
+| Cash Wallet Server             | Implementation     | Low      | Completed            |
+| Portfolio Server               | Implementation     | Medium   | Completed            |        
+| Leaderboard Server             | Implementation     | Medium   | Not Started          |
+| Order Processing Server        | Implementation     | Medium   | Not Started          |
+| Progression Server             | Implementation     | Medium   | Not Started          |
+| Lobby Server                   | Implementation     | Medium   | Not Started          |
+| Market Data Streaming Server   | Implementation     | High     | Partially Completed  |
+
+
 
 ### *Team Members*
 
