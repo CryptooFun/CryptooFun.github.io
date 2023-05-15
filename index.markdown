@@ -48,16 +48,16 @@ The aim of our project is to ensure that people make minimal losses from their f
 | Task Name                      | Category           | Priority | Status               |
 | **Subsytem Implementation**                                                           |    
 |:-------------------------------|:-------------------|:---------|:---------------------|
-| Identity Provider              | Implementation     | Medium   | Not Started          |
-| Server-side Infrastructure     | Implementation     | Medium   | Not Started          |
-| Web Application Server         | Implementation     | Low      | Not Started          |
+| Identity Provider              | Implementation     | Medium   | Completed            |
+| Server-side Infrastructure     | Implementation     | Medium   | Completed            |
+| Web Application Server         | Implementation     | High     | Not Started          |
 | Trade Butler Server            | Implementation     | Low      | Completed            |
 | Cash Wallet Server             | Implementation     | Low      | Completed            |
 | Portfolio Server               | Implementation     | Medium   | Completed            |        
-| Leaderboard Server             | Implementation     | Medium   | Not Started          |
-| Order Processing Server        | Implementation     | Medium   | Not Started          |
-| Progression Server             | Implementation     | Medium   | Not Started          |
-| Lobby Server                   | Implementation     | Medium   | Not Started          |
+| Leaderboard Server             | Implementation     | Medium   | Completed            |
+| Order Processing Server        | Implementation     | Medium   | Completed            |
+| Progression Server             | Implementation     | Medium   | Completed            |
+| Lobby Server                   | Implementation     | High     | Not Started          |
 | Market Data Streaming Server   | Implementation     | High     | Partially Completed  |
 
 
