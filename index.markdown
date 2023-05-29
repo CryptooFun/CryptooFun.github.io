@@ -39,7 +39,7 @@ The aim of our project is to ensure that people make minimal losses from their f
 | High-Level Design Report      | Report     | High     | Completed    |
 | Low-Level Design Report       | Report     | High     | Completed    |
 | Test Plan Report              | Report     | High     | Completed    |
-| Final Report                  | Report     | Medium   | Not Started  |
+| Final Report                  | Report     | High     | Not Started  |
 
 
 * * *
@@ -50,15 +50,15 @@ The aim of our project is to ensure that people make minimal losses from their f
 |:-------------------------------|:-------------------|:---------|:---------------------|
 | Identity Provider              | Implementation     | Medium   | Completed            |
 | Server-side Infrastructure     | Implementation     | Medium   | Completed            |
-| Web Application Server         | Implementation     | High     | Not Started          |
+| Web Application Server         | Implementation     | High     | Completed            |
 | Trade Butler Server            | Implementation     | Low      | Completed            |
 | Cash Wallet Server             | Implementation     | Low      | Completed            |
 | Portfolio Server               | Implementation     | Medium   | Completed            |        
 | Leaderboard Server             | Implementation     | Medium   | Completed            |
 | Order Processing Server        | Implementation     | Medium   | Completed            |
 | Progression Server             | Implementation     | Medium   | Completed            |
-| Lobby Server                   | Implementation     | High     | Not Started          |
-| Market Data Streaming Server   | Implementation     | High     | Partially Completed  |
+| Lobby Server                   | Implementation     | High     | Completed            |
+| Market Data Streaming Server   | Implementation     | High     | Completed            |
 
 
 
